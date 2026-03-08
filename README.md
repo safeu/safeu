@@ -9,3 +9,7 @@ A BS Manufacturing Engineering student who's genuinely curious about the tech si
 - 🌐 **Dabbling in web basics** — picking up Flask and HTML to build simple tools and interfaces
 - 🔧 **Exploring industrial automation** — getting into PLCs, SCADA, and how software runs the factory floor
 - 🎯 **Working toward** — IT, systems, or automation roles in the manufacturing industry
+
+### Socials:
+[LinkedIn Profile](https://www.linkedin.com/in/mavrich-bacani/)
+[Instagram](https://www.instagram.com/mavrichjehoash/)
