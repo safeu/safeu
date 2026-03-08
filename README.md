@@ -14,10 +14,6 @@ A BS Manufacturing Engineering student who's genuinely curious about the tech si
 
 ---
 
-[![safeu's GitHub stats](https://github-readme-stats.vercel.app/api?username=safeu&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&commits_year=2026&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 ### Socials:
 - [LinkedIn Profile](https://www.linkedin.com/in/mavrich-bacani/)
 - [Instagram](https://www.instagram.com/mavrichjehoash/)
