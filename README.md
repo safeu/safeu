@@ -1,16 +1,16 @@
 ## Hi there, I'm Mavrich 👋
 
-A BS Manufacturing Engineering student who's genuinely curious about the tech side of the industry — from automating processes to building tools that make data actually useful on the factory floor.
+A BS Manufacturing Engineering student who's genuinely interested in the data or systems side of the industry. That curiosity led me toward data analytics, and the more I learned, the more I wanted to build the pipelines that make that analysis possible in the first place.
 
 ---
 
 ### I'm currently:
 - 🏭 **Studying BS Manufacturing Engineering** — learning about lean manufacturing, engineering production management, computer-aided manufacturing (CAM), manufacturing processes, mechatronics, and others.
-- 💻 **Learning programming** — actively learning Python, C++, and Java to build a strong foundation for automation and systems.
-- 🗄️ **Exploring databases** — learning and getting familiar with SQL through SQLite and PostgreSQL
-- 🌐 **Dabbling in web basics** — picking up Flask and HTML to build simple tools and interfaces
-- 🔧 **Exploring industrial automation** — getting into PLCs, SCADA, and how software runs the factory floor
-- 🎯 **Working toward** — Data analysis / Data science, IT, systems, or automation roles in the manufacturing industry
+- 📊 **Building toward data analytics** — working with Python, SQL, and Power BI to analyze and visualize manufacturing data (OEE, inventory, production)
+- 🐍 **Programming stack** — Python (pandas, NumPy, matplotlib), SQL (PostgreSQL, SQLite), with some Java and C++ fundamentals
+- 📂 **Growing a portfolio** — small projects already on here; more manufacturing-focused data work in progress
+- 📦 **Exploring next** — slowly working my way into data engineering territory: dabbling with dbt, getting familiar with Docker, and starting to explore cloud (GCP/Azure) and workflow orchestration with Apache Airflow
+- 🎯 **Working toward** — **Data analytics** first to build domain credibility, then hopefully **data engineering** to build the systems behind it
 
 ---
 
