@@ -18,3 +18,7 @@ A BS Manufacturing Engineering student who's genuinely interested in the data or
 - [LinkedIn Profile](https://www.linkedin.com/in/mavrich-bacani/)
 - [Instagram](https://www.instagram.com/mavrichjehoash/)
 - [Spotify](https://open.spotify.com/user/31u3jdmvlgjwewhgdycyputf2j3a?si=736e0233e7514caa)
+
+## Github Stats:
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safeu&layout=compact&theme=dark" alt="Top Languages" />
+
