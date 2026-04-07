@@ -1,16 +1,42 @@
 ## Hi there, I'm Mavrich 👋
 
-A BS Manufacturing Engineering student who's genuinely interested in the data or systems side of the industry. That curiosity led me toward data analytics, and the more I learned, the more I wanted to build the pipelines that make that analysis possible in the first place.
+🎓 BS Manufacturing Engineering student  
+📊 Aspiring Data Engineer (with a strong foundation in Data Analytics)
 
 ---
 
-### I'm currently:
-- 🏭 **Studying BS Manufacturing Engineering** — learning about lean manufacturing, engineering production management, computer-aided manufacturing (CAM), manufacturing processes, mechatronics, and others.
-- 📊 **Building toward data analytics** — working with Python, SQL, and Power BI to analyze and visualize manufacturing data (OEE, inventory, production)
-- 🐍 **Programming stack** — Python (pandas, NumPy, matplotlib), SQL (PostgreSQL, SQLite), with some Java and C++ fundamentals
-- 📂 **Growing a portfolio** — small projects already on here; more manufacturing-focused data work in progress
-- 📦 **Exploring next** — slowly working my way into data engineering territory: dabbling with dbt, getting familiar with Docker, and starting to explore cloud (GCP/Azure) and workflow orchestration with Apache Airflow
-- 🎯 **Working toward** — **Data analytics** first to build domain credibility, then hopefully **data engineering** to build the systems behind it
+A BS Manufacturing Engineering student who's genuinely interested in the data or systems side of the industry. That curiosity led me toward data analytics, and the more I learned, the more I wanted to build the pipelines that make that analysis possible in the first place. From a manufacturing standpoint, I'm currently learning about lean manufacturing, engineering production management, computer-aided manufacturing (CAM), manufacturing processes, mechatronics, and related topics.
+
+---
+## 🛠️ Tech Stack
+**Languages**
+- Python
+- SQL (PostgreSQL, SQLite, MySQL)
+- Java, C++ (fundamentals)
+
+**Data & Analytics**
+- Pandas, NumPy, Matplotlib
+- Power BI
+- Excel
+
+**Data Engineering (Learning & Building)**
+- PostgreSQL (data modeling, schema design)
+- dbt
+- BigQuery
+- Git/GitHub
+
+**Tools**
+- VS Code
+- Jupyter Notebook
+- Fusion 360, Tinkercad (engineering tools)
+
+---
+
+## 📂 What I’m Working On
+- Growing a portfolio
+- Strengthening SQL and data modeling fundamentals  
+- Building data pipelines and ETL workflows  
+- Exploring orchestration and cloud tools (Airflow, GCP/Azure/AWS), maybe Docker as well
 
 ---
 
@@ -20,5 +46,5 @@ A BS Manufacturing Engineering student who's genuinely interested in the data or
 - [Spotify](https://open.spotify.com/user/31u3jdmvlgjwewhgdycyputf2j3a?si=736e0233e7514caa)
 
 ## Github Stats:
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safeu&layout=compact&theme=dark" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safeu&layout=compact&theme=dark" alt="Top Languages"/>
 
