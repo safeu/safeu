@@ -1,7 +1,7 @@
 ## Hi there, I'm Mavrich 👋
 
 🎓 BS Manufacturing Engineering student  
-📊 Aspiring Data Engineer (with a strong foundation in Data Analytics)
+📊 Aspiring Data Engineer / Data Analyst
 
 ---
 
@@ -36,7 +36,7 @@ A BS Manufacturing Engineering student who's genuinely interested in the data or
 - Growing a portfolio
 - Strengthening SQL and data modeling fundamentals  
 - Building data pipelines and ETL workflows  
-- Exploring orchestration and cloud tools (Airflow, GCP/Azure/AWS), maybe Docker as well
+- Exploring orchestration, Spark, and cloud tools (Airflow, Apache Spark/PySpark, GCP/Azure/AWS), maybe Docker as well
 
 ---
 
